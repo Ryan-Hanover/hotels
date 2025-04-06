@@ -4,7 +4,7 @@
     <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
     <PhoneNumber>+1-480-555-1234</PhoneNumber>
     <PhoneNumber>+1-480-555-5678</PhoneNumber>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>6000</Number>
       <Street>E Camelback Rd</Street>
       <City>Scottsdale</City>
@@ -15,7 +15,7 @@
   <Hotel>
     <Name>Four Seasons Resort Scottsdale at Troon North</Name>
     <PhoneNumber>+1-480-555-2345</PhoneNumber>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>11000</Number>
       <Street>E Sunrise Blvd</Street>
       <City>Scottsdale</City>
@@ -26,7 +26,7 @@
   <Hotel Rating="4.5">
     <Name>Hotel Valley Ho</Name>
     <PhoneNumber>+1-480-555-3456</PhoneNumber>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>6851</Number>
       <Street>E Indian School Rd</Street>
       <City>Scottsdale</City>
@@ -38,7 +38,7 @@
     <Name>JW Marriott Scottsdale Camelback Inn Resort &amp; Spa</Name>
     <PhoneNumber>+1-480-555-4567</PhoneNumber>
     <PhoneNumber>+1-480-555-8910</PhoneNumber>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>4800</Number>
       <Street>E Camelback Rd</Street>
       <City>Scottsdale</City>
@@ -49,7 +49,7 @@
   <Hotel>
     <Name>The Arizona Biltmore, A Waldorf Astoria Resort</Name>
     <PhoneNumber>+1-602-555-5678</PhoneNumber>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>2401</Number>
       <Street>E Arizona Biltmore Way</Street>
       <City>Phoenix</City>
@@ -60,7 +60,7 @@
   <Hotel Rating="4.4">
     <Name>Omni Scottsdale Resort at Montelucia</Name>
     <PhoneNumber>+1-480-555-6789</PhoneNumber>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>3000</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -72,7 +72,7 @@
     <Name>Hyatt Regency Scottsdale Resort &amp; Spa at Gainey Ranch</Name>
     <PhoneNumber>+1-480-555-7890</PhoneNumber>
     <PhoneNumber>+1-480-555-0123</PhoneNumber>
-    <Address NearestAirport="Scottsdale Airport">
+    <Address NearstAirport="Scottsdale Airport">
       <Number>7500</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -83,7 +83,7 @@
   <Hotel>
     <Name>The Scott Resort &amp; Spa</Name>
     <PhoneNumber>+1-480-555-8901</PhoneNumber>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>9550</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -95,7 +95,7 @@
     <Name>Hilton Phoenix Downtown</Name>
     <PhoneNumber>+1-602-555-9012</PhoneNumber>
     <PhoneNumber>+1-602-555-3456</PhoneNumber>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>222</Number>
       <Street>S 3rd Ave</Street>
       <City>Phoenix</City>
@@ -106,7 +106,7 @@
   <Hotel Rating="4.8">
     <Name>Waldorf Astoria Phoenix</Name>
     <PhoneNumber>+1-602-555-4567</PhoneNumber>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address NearstAirport="Phoenix Sky Harbor">
       <Number>350</Number>
       <Street>W Roosevelt St</Street>
       <City>Phoenix</City>
